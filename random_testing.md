@@ -104,7 +104,7 @@ both artificial bugs were present.
 ## Conclusion and future thoughts
 
 For more detail about the test software, see the [github repo
-README](https://github.com/SeeForTwo/hier_object/test/README.md).
+README](https://github.com/SeeForTwo/hier_object/blob/main/test/README.md).
 
 Passing the Hypothesis based tests shows that two pieces of software
 followed exactly the same rules, one (the `hier_object` library) that
