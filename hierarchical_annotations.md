@@ -1,6 +1,9 @@
 ---
 layout: default
 title: "SeeForTwo: Putting Annotations in a Hierarchy"
+og_rel_url: hierarchical_annotations
+og_rel_image: assets/img/SeeForTwo_hier_object_640x320.jpg
+og_description: A Python library for putting computer vision ground truth object bounding box annotations into a hierarchy.  It groups smaller objects based on larger objects that contain them.
 ---
 
 ## Computer Vision: Putting Annotations in a Hierarchy

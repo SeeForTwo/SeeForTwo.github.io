@@ -1,6 +1,10 @@
 ---
 layout: default
 title: "SeeForTwo: Detecting Left and Right Eyes"
+og_rel_url: left_right_eyes
+og_rel_image: assets/img/SeeForTwo_eyes_640x320_margin.jpg
+og_description: This experiment compares two similar but not identical object detection
+network structures (Convolutional Neural Network, CNN; Deep Neural Network, DNN). Both are capable of the task of detecting human eyes (i.e. one class). Only one of these two network structures has relatively good performance for detecting left or right human eyes (i.e. two classes of similar objects).
 ---
 
 ## Computer Vision: Detecting Left and Right Eyes

@@ -1,6 +1,9 @@
 ---
 layout: default
 title: "SeeForTwo: Random Testing for Hierarchical Annotations"
+og_rel_url: random_testing
+og_rel_image: assets/img/SeeForTwo_test_640x320.jpg
+og_description: Testing hier_object, a Python library for putting annotations in a hierarchy, using the Hypothesis Library for property based (random) testing.
 ---
 
 ## Computer Vision: Random Testing for Hierarchical Annotations

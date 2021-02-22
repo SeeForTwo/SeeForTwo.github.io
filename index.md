@@ -1,6 +1,9 @@
 ---
 layout: default
 title: "SeeForTwo: Computer Vision"
+og_rel_url: ""
+og_rel_image: assets/img/SeeForTwo_eyes_640x320_margin.jpg
+og_description: Detecting left and right eyes is an experiment in an area of personal interest, understanding the minimal requirements for network (Convolutional Neural Network, CNN / Deep Neural Network, DNN) structures for particular object detection (computer vision) applications.
 ---
 
 ## {{ site.description }}
